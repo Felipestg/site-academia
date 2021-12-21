@@ -1,4 +1,3 @@
 # site-academia
 
-E um site de exibição de uma academia.
-Testanto git...
+site de exbição de  um centro de treinamento fisico.
